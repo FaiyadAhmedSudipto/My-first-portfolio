@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.botton{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, tomato, lightSalmon);
+    padding: 10px 20px;
+    border-radius: 5;
+    color: whitesmoke;
+    font-weight: 700;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px
+}
+h3{
+    font-size: 35px;
+}
+h4{
+    font-size: 25px;
+}
+p{
+    color: dimgray;
+}
+.Name-Highlight{
+    color:orange;
+}
+.year-highlight{
+    color: orange;
+}
+.half-width-part1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+.half-width-part1 img{
+    width: 75%;
+}
+.half-width-part2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+.half-width-part2 img{
+    width: 100%;
+}
+.background-image-part1{
+    background-image: url("picture/top-banner.png");
+    background-repeat: no-repeat;
+}
+.background-image-part2{
+    background-image: url("picture/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.background-image-part3{
+    background-image: url("picture/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+#background-making{
+    box-shadow: 10px 10px 40px gray;
+    height: 65%;
+    border-radius: 5px;
+    text-align: justify;
+}
+#experience{
+    box-shadow: 10px 10px 40px gray;
+}
